@@ -14,7 +14,7 @@ var monk = require('monk');
 //import Router = require('./routes/index');
 
 interface Error {
-    status?: number;
+    status?: number2222;
 }
 
 class Application {
