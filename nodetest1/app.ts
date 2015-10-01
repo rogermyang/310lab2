@@ -11,7 +11,7 @@ var bodyParser = require('body-parser');
 var mongo = require('mongodb');
 var monk = require('monk');
 
-import Router = require('./routes/index');
+//import Router = require('./routes/index');
 
 interface Error {
     status?: number;
